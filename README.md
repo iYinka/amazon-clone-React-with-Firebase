@@ -1,3 +1,30 @@
+# Live Deploy
+This Amazon web app is cloned and the live URL is at (https://clone-bbef4.web.app/).
+
+# Authentication
+This is managed using Firebase services
+
+# Payment
+The Stripe technology is used for the card payment. A test card is used in this case.
+  ### Disclaimer: DO NOT USE AN ACTIVE DEBIT/CREDIT CARD. USE THE PROVIDED CARD DETAILS BELOW.
+  
+
+# Test Payment
+Only a minute fragment is implemented: Use the below card details
+  ### CARD NUMBER: 4242424242424242
+  ### MM/YY: 04/24
+  ### CVC: 242
+  ### ZIP: 42424
+  
+  
+# User Interface
+The best screen resolution is full screen as further media queries will be considered as soon as possible.
+______________________________________________________
+
+
+
+
+_____________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
